@@ -1,0 +1,9 @@
+antelope = 4
+belladonna = 99
+cybersheep = 11
+fox = 3
+human = 5
+wolf = 9
+turtle = 2
+sheep = 4
+hogweed = 10
