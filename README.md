@@ -12,11 +12,11 @@ Preview photo:
 ![alt text](https://github.com/wiktornazaruk/2D_World_Simulator_Python/blob/main/preview.png?raw=true)
 
 How to play:
-click at animal on the pink tile to choose which you want to add and then click on the tile on the grid to put this animal in place  
-move human with arrows (it automaticaly goes to next turn)
-click "end" to move to next round without moving human
-click "esc" to exit game
-click "home" to save game state
-click "insert" to load game state
-cilck "m" key to play music 
+-click at animal on the pink tile to choose which you want to add and then click on the tile on the grid to put this animal in place  
+-move human with arrows (it automaticaly goes to next turn)
+-click "end" to move to next round without moving human
+-click "esc" to exit game
+-click "home" to save game state
+-click "insert" to load game state
+-cilck "m" key to play music 
 
