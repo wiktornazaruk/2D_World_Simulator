@@ -11,3 +11,5 @@ Preview photo:
 
 ![alt text](https://github.com/wiktornazaruk/2D_World_Simulator_Python/blob/main/preview.png?raw=true)
 
+Game rules:
+![alt text](https://github.com/wiktornazaruk/2D_World_Simulator_Python/blob/main/Instruction.pdf?raw=true)
